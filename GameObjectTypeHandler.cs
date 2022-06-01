@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-namespace Extensions.GameObject
+namespace Extensions.GO
 {
     public static class GameObjectTypeHandler 
     {
