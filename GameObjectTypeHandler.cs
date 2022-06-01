@@ -3,7 +3,7 @@ using System;
 
 namespace Extensions.GameObject
 {
-    private static class GameObjectTypeHandler 
+    public static class GameObjectTypeHandler 
     {
          public static void HandleComponent<T>(this GameObject gameObject, Action<T> handler) 
          {
